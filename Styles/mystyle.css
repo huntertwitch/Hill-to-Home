@@ -1,0 +1,38 @@
+h4{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: brown;
+}
+.excited{
+    font-weight: 500;
+    color: brown;
+}
+.stronger{
+    font-weight: 400;
+    font-size: 22px;
+    color: black;
+}
+.price{
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.links{
+    color: blueviolet;
+    font-weight: lighter;
+}
+p{font-size:17px ;
+
+}
+.bold{
+    font-weight: bold;
+    font-size: 19px;
+}
+body {
+    background-color:antiquewhite;
+}
+h1{
+    text-align: center;
+
+}
